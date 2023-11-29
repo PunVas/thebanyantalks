@@ -1,4 +1,3 @@
-
 const widget = document.createElement('div');
 widget.style.position = 'fixed';
 widget.style.bottom = '20px';
@@ -51,4 +50,3 @@ button.addEventListener('mouseover', function() {
 button.addEventListener('mouseout', function() {
   qrCode.style.display = 'none';
 });
-
